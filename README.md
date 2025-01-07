@@ -1,7 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I am Tuhin
 
-<!--
-**tuhinbidyanta/tuhinbidyanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Visit My Site](https://img.shields.io/badge/Visit%20My%20Site-blue)](https://tuhinbidyanta.netlify.app/)
+
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
