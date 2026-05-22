@@ -80,7 +80,7 @@
 
 <table>
 <tr>
-<td width="33%">
+<!-- <td width="33%">
 
 ###  <img width="25" height="25" alt="image" src="https://www.sunpetro.com/wp-content/uploads/2024/07/cropped-SunPetro-LOGO-2.png" />  Sunpetro 
 **Industrial Internship** | *May 2026 - June 2026*
@@ -106,11 +106,11 @@
 - Commercial exploration practices
 - Real-world project management
 
-</td>
-<!-- <td width="33%">
+</td> -->
+<td width="33%">
 
-### 🔬 **IISc Bangalore**
-**SRFP Summer Research Intern** | *May 2024 - July 2024*
+### 🔬 **NISER Bhubaneswer**
+**Summer Research Intern** | *May 2025 - July 2025*
 
 <img src="https://img.shields.io/badge/Focus-GPS_Geodesy-7c3aed?style=flat-square" />
 <img src="https://img.shields.io/badge/Domain-Earthquake_Science-dc2626?style=flat-square" />
@@ -134,7 +134,7 @@
 </table>
 
 
---- -->
+---
 
 </td>
 </tr>
