@@ -19,6 +19,8 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-Strong-0c0d0f?style=plastic&labelColor=4b80d6"/>
 </p>
 
+![Snake animation](https://github.com/tuhinbidyanta/tuhinbidyanta/blob/output/github-contribution-grid-snake.svg)
+
 <br clear="left"/> 
 
 ## 🎓 Education
@@ -76,3 +78,5 @@
 </tr>
 </table>
 ---
+
+
