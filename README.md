@@ -18,8 +18,8 @@
   <img src="https://img.shields.io/badge/Physics%20Background-Strong-0c0d0f?style=plastic&labelColor=4b80d6"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-Strong-0c0d0f?style=plastic&labelColor=4b80d6"/>
 </p>
-
-![Snake animation](https://github.com/tuhinbidyanta/tuhinbidyanta/blob/output/github-contribution-grid-snake.svg)
+<img src = "https://github.com/tuhinbidyanta/tuhinbidyanta/blob/output/github-contribution-grid-snake.svg" width="580" />
+<!-- ![Snake animation](https://github.com/tuhinbidyanta/tuhinbidyanta/blob/output/github-contribution-grid-snake.svg) -->
 
 <br clear="left"/> 
 
