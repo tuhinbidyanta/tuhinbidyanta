@@ -29,47 +29,112 @@
 <tr>
 <td width="33%">
 
-### 🏛️ **IIT (ISM) Dhanbad**
+### <img  width="25" height="25"  src = "https://upload.wikimedia.org/wikipedia/en/8/8e/IIT_%28ISM%29_Dhanbad_Logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original"/> **IIT (ISM) Dhanbad**
 **M.Sc. (Tech) in Applied Geophysics**
 <br>
 📅 *2024 - 2027*
 
 <img src="https://img.shields.io/badge/Status-Final_Year-success?style=flat-square" />
-<img src="https://img.shields.io/badge/Focus-AI/ML_in_Geoscience-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Focus-AI/ML_Geoscience-blue?style=flat-square" />
 
 **CGPA** : 8.37
 
 </td>
 <td width="33%">
 
-### 🎓 **Chakdaha College**
+### <img width="25" height="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuFW6wxsDLvpvekR9i3-3rcZ0doRzPVGos3Q&s"/> **Chakdaha College**
 **B.Sc. (Honours) in Physics**
 <br>
 📅 *2021 - 2024*
 
 <img src="https://img.shields.io/badge/Status-Completed-green?style=flat-square" />
-<!-- <img src="https://img.shields.io/badge/Scholarship-DST_INSPIRE-purple?style=flat-square" /> -->
+<img src="https://img.shields.io/badge/Physics-Simulation-purple?style=flat-square" />
 
 **CGPA:** : 8.87
 
 </td>
 <td width="33%">
 
-### 🏫 **Higher Secondary Education**
-**Santipur Municipal High School**
+### 🏫 **Santipur Municipal High School**
+**Higher Secondary Education**
 <br>
 📅 *2019- 2021*
 
 <img src="https://img.shields.io/badge/NMMS_scolar-complete-orange?style=flat-square" />
 <img src="https://img.shields.io/badge/Stream-Science-lightgrey?style=flat-square" />
 
-**CGPA:**:9.1
+**CGPA:**:8.9
 
 
 
 </td>
 </tr>
 </table>
+
 ---
+
+
+
+
+## 💼 **Internships**
+
+<table>
+<tr>
+<td width="33%">
+
+###  <img width="25" height="25" alt="image" src="https://www.sunpetro.com/wp-content/uploads/2024/07/cropped-SunPetro-LOGO-2.png" />  Sunpetro 
+**Industrial Internship** | *May 2026 - June 2026*
+
+<img src="https://img.shields.io/badge/Focus-Reservoir_Charecterization-2563eb?style=flat-square" />
+<img src="https://img.shields.io/badge/Work-Software_Development-10b981?style=flat-square" />
+<img src="https://img.shields.io/badge/Doing-Reservoir_Modelling-10b981?style=flat-square" />
+<br>
+<img src="https://skillicons.dev/icons?i=python,sklearn&perline=8" />
+
+**Mentor:** Priyam Saha
+
+**Key Work:**
+- 🔍 **Seismic Interpretation:** Horizon picking, contour mapping, time-depth conversion, well tie
+- 📊 **Attribute Analysis:** RMS amplitude, phase, coherence extraction
+- 🗺️ **Reservoir Mapping:** Isopach and isochore map generation
+- 💧 **Volumetric Calculations:** Reservoir characterization and production assessment
+- 🧮 **Inversion Techniques:** Post-stack and pre-stack inversion for hydrocarbon prospect evaluation
+
+**Skills Gained:**
+- Industry-standard workflows
+- DecisionSpace proficiency
+- Commercial exploration practices
+- Real-world project management
+
+</td>
+<td width="33%">
+
+### 🔬 **IISc Bangalore**
+**SRFP Summer Research Intern** | *May 2024 - July 2024*
+
+<img src="https://img.shields.io/badge/Focus-GPS_Geodesy-7c3aed?style=flat-square" />
+<img src="https://img.shields.io/badge/Domain-Earthquake_Science-dc2626?style=flat-square" />
+
+**Mentors:** Dr. Attreyee Ghosh, Dr. Prabhat Kumar
+
+**Research Project:**
+- 🌍 **Topic:** 2015 Gorkha Earthquake crustal deformation analysis
+- 📡 **Data Processing:** GAMIT/GLOBK for GPS data analysis
+- 📊 **Stations:** 26 GNSS + 12 IGS stations (2010-2016)
+- 📈 **Output:** Earthquake time-series, surface movements, deformation patterns
+
+**Technical Achievement:**
+- Sub-centimeter precision displacement mapping
+- Automated time series analysis tools
+- Understanding Himalayan seismic processes
+- Manuscript preparation skills
+
+</td>
+</tr>
+</table>
+
+
+---
+
 
 
