@@ -4,7 +4,7 @@
 
 
 
-<img src="https://github.com/tuhinbidyanta/tuhinbidyanta/blob/main/new%20profile.png?raw=true" alt="Cartoon Style Image" align="left" width="280" hspace="20" />
+<img src="https://github.com/tuhinbidyanta/tuhinbidyanta/blob/main/new%20profile.png?raw=true" alt="Cartoon Style Image" align="left" width="30%" hspace="20" />
 
 <h4>🎓 About</h4>
 
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Physics%20Background-Strong-0c0d0f?style=plastic&labelColor=4b80d6"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-Strong-0c0d0f?style=plastic&labelColor=4b80d6"/>
 </p>
-<img src = "https://github.com/tuhinbidyanta/tuhinbidyanta/blob/output/github-contribution-grid-snake.svg" width="580" />
+<img src = "https://github.com/tuhinbidyanta/tuhinbidyanta/blob/output/github-contribution-grid-snake.svg" width="60%" />
 <!-- ![Snake animation](https://github.com/tuhinbidyanta/tuhinbidyanta/blob/output/github-contribution-grid-snake.svg) -->
 
 <br clear="left"/> 
@@ -32,7 +32,7 @@
 ### 🏛️ **IIT (ISM) Dhanbad**
 **M.Sc. (Tech) in Applied Geophysics**
 <br>
-📅 *2023 - 2026*
+📅 *2024 - 2027*
 
 <img src="https://img.shields.io/badge/Status-Final_Year-success?style=flat-square" />
 <img src="https://img.shields.io/badge/Focus-AI/ML_in_Geoscience-blue?style=flat-square" />
