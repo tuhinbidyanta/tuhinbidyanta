@@ -107,7 +107,7 @@
 - Real-world project management
 
 </td>
-<td width="33%">
+<!-- <td width="33%">
 
 ### 🔬 **IISc Bangalore**
 **SRFP Summer Research Intern** | *May 2024 - July 2024*
@@ -134,7 +134,9 @@
 </table>
 
 
----
+--- -->
 
-
+</td>
+</tr>
+</table>
 
