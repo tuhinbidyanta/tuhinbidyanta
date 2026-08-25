@@ -115,13 +115,34 @@
 <img src="https://img.shields.io/badge/Focus-GPS_Geodesy-7c3aed?style=flat-square" />
 <img src="https://img.shields.io/badge/Domain-Earthquake_Science-dc2626?style=flat-square" />
 
-**Mentors:** Dr. Attreyee Ghosh, Dr. Prabhat Kumar
+**Mentors:** Dr. Guneshwar Singh Thangjam
 
 **Research Project:**
-- 🌍 **Topic:** 2015 Gorkha Earthquake crustal deformation analysis
-- 📡 **Data Processing:** GAMIT/GLOBK for GPS data analysis
-- 📊 **Stations:** 26 GNSS + 12 IGS stations (2010-2016)
-- 📈 **Output:** Earthquake time-series, surface movements, deformation patterns
+- 🌍 **Topic:** Feature offset and Feature matching in Chandrayaan-2 IIRS data 
+- 📡 **Data Processing:** we used computer vision to detect the crater and other
+- features then used SIFT and ORB to detect BF and FLANN used to match the features automatically according to the descriptors
+
+**Technical Achievement:**
+- Sub-centimeter precision displacement mapping
+- Automated time series analysis tools
+- Understanding Himalayan seismic processes
+- Manuscript preparation skills
+
+</td>
+<td width="33%">
+
+### 🔬 **NISER Bhubaneswer**
+**Summer Research Intern** | *May 2025 - July 2025*
+
+<img src="https://img.shields.io/badge/Focus-GPS_Geodesy-7c3aed?style=flat-square" />
+<img src="https://img.shields.io/badge/Domain-Earthquake_Science-dc2626?style=flat-square" />
+
+**Mentors:** Dr. Guneshwar Singh Thangjam
+
+**Research Project:**
+- 🌍 **Topic:** Feature offset and Feature matching in Chandrayaan-2 IIRS data 
+- 📡 **Data Processing:** we used computer vision to detect the crater and other
+- features then used SIFT and ORB to detect BF and FLANN used to match the features automatically according to the descriptors
 
 **Technical Achievement:**
 - Sub-centimeter precision displacement mapping
