@@ -44,6 +44,10 @@
 - **Sun Petrochemicals** · Built desktop software for preliminary interpretation of **3D seismic volumes up to 7 GB** on a low-specification PC.
 - **NISER Bhubaneswar** · Used SIFT, ORB, and descriptor matching to identify and compare lunar surface features in Chandrayaan-2 IIRS imagery.
 
+## 🧭 Try to do
+
+- **TGEO** · A planned Python module that brings geophysical computation into one place, from data processing and forward modeling to inversion and visualization.
+
 ## ⚙️ Tools I use
 
 <p>
