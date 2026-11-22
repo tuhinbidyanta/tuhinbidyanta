@@ -1,6 +1,6 @@
 <p align="center"><img src="./new%20profile.png" alt="Illustrated portrait of Tuhin Bidyanta" width="120"></p>
 
-<h1 align="center">Tuhin Bidyanta</h1>
+<h1 align="center"><img src="https://signature4u.vercel.app/api/sign?text=Tuhin+Bidyanta&amp;font=great-vibes&amp;fontSize=120&amp;speed=4.4&amp;charSpacing=0&amp;borderRadius=75&amp;cardPadding=24&amp;fill1=3f84a2&amp;fill2=ec4899&amp;stroke=3f84a2&amp;stroke2=3f84a2&amp;strokeMode=single&amp;strokeEnabled=1&amp;bg=transparent&amp;bgMode=solid&amp;bg2=e5e7eb&amp;texture=lines&amp;texColor=ffffff&amp;texSize=1&amp;texThickness=0.5&amp;texOpacity=0.1&amp;useGlow=1&amp;linkFillStroke=1&amp;eraseOnComplete=1&amp;format=svg" alt="Tuhin Bidyanta" width="450"></h1>
 <p align="center"><strong>Applied Geophysics · Seismic Inversion · Scientific Software</strong><br>M.Sc. (Tech) in Applied Geophysics · IIT (ISM) Dhanbad · Class of 2027</p>
 
 <p align="center">
@@ -53,3 +53,7 @@
 **Analysis & visualization** · SciPy, Pandas, scikit-learn, Matplotlib, Plotly  
 **Geophysical & spatial data** · ObsPy, lasio, GeoPandas, SEG-Y, LAS  
 **Apps & computer vision** · Django, PyQt5, SIFT, ORB
+
+## 🐍 Contribution activity
+
+<p align="center"><img src="https://github.com/tuhinbidyanta/tuhinbidyanta/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Animated snake moving across the GitHub contribution grid" width="680"></p>
