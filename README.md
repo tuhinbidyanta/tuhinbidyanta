@@ -1,12 +1,21 @@
-<p align="center"><img src="./new%20profile.png" alt="Illustrated portrait of Tuhin Bidyanta" width="120"></p>
+<h1 align="center"><img src="https://signature4u.vercel.app/api/sign?text=Tuhin+Bidyanta&amp;font=great-vibes&amp;fontSize=120&amp;speed=4.4&amp;charSpacing=0&amp;borderRadius=75&amp;cardPadding=24&amp;fill1=3f84a2&amp;fill2=ec4899&amp;stroke=3f84a2&amp;stroke2=3f84a2&amp;strokeMode=single&amp;strokeEnabled=1&amp;bg=transparent&amp;bgMode=solid&amp;bg2=e5e7eb&amp;texture=lines&amp;texColor=ffffff&amp;texSize=1&amp;texThickness=0.5&amp;texOpacity=0.1&amp;useGlow=1&amp;linkFillStroke=1&amp;eraseOnComplete=1&amp;format=svg" alt="Tuhin Bidyanta" width="900"></h1>
 
-<h1 align="center"><img src="https://signature4u.vercel.app/api/sign?text=Tuhin+Bidyanta&amp;font=great-vibes&amp;fontSize=120&amp;speed=4.4&amp;charSpacing=0&amp;borderRadius=75&amp;cardPadding=24&amp;fill1=3f84a2&amp;fill2=ec4899&amp;stroke=3f84a2&amp;stroke2=3f84a2&amp;strokeMode=single&amp;strokeEnabled=1&amp;bg=transparent&amp;bgMode=solid&amp;bg2=e5e7eb&amp;texture=lines&amp;texColor=ffffff&amp;texSize=1&amp;texThickness=0.5&amp;texOpacity=0.1&amp;useGlow=1&amp;linkFillStroke=1&amp;eraseOnComplete=1&amp;format=svg" alt="Tuhin Bidyanta" width="450"></h1>
-<p align="center"><strong>Applied Geophysics · Seismic Inversion · Scientific Software</strong><br>M.Sc. (Tech) in Applied Geophysics · IIT (ISM) Dhanbad · Class of 2027</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/tuhin-bidyanta/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
-  <a href="https://github.com/tuhinbidyanta?tab=repositories"><img src="https://img.shields.io/badge/Explore_repositories-24292F?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore repositories"></a>
-</p>
+<table align="center" width="900">
+  <tr>
+    <td width="200" align="center" valign="middle">
+      <img src="./new%20profile.png" alt="Illustrated portrait of Tuhin Bidyanta" width="148">
+    </td>
+    <td width="680" valign="middle">
+      <h3>Applied Geophysics · Seismic Inversion · Scientific Software</h3>
+      <p><strong>M.Sc. (Tech) in Applied Geophysics · IIT (ISM) Dhanbad · Class of 2027</strong></p>
+      <p>I build Python tools for interpreting seismic, well-log, and geospatial data. My dissertation focuses on building initial velocity models for multiscale full-waveform inversion.</p>
+      <p>
+        <a href="https://www.linkedin.com/in/tuhin-bidyanta/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
+        <a href="https://github.com/tuhinbidyanta?tab=repositories"><img src="https://img.shields.io/badge/Explore_repositories-24292F?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore repositories"></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kaggle_Permeability-Rank_1-B78308?style=flat-square&amp;labelColor=252D42" alt="Rank 1 in Kaggle Permeability Prediction">
